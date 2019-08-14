@@ -1,0 +1,38 @@
+http://demosrvr.com/wp/senditrightnow/user/forgot
+
+Submit button design missing
+
+and showing error while clicking on submit button
+
+--------------------------------------------------------
+
+Once oder submit it should work
+http://nimb.ws/TcOng7
+-------------------------------------------------------
+
+Once oder submit product price and product name missing in email along with custom message
+
+
+-----------------------------------------------------
+http://demosrvr.com/wp/senditrightnow/contact
+
+USe google captcha for this one as its confusing
+
+http://nimb.ws/sE071a
+------------------------------------------------------------------------
+
+http://demosrvr.com/wp/senditrightnow/cart#
+
+Continue shoping button not working
+
+-------------------------------------------------------------------
+Once user logout its showing message with text
+http://nimb.ws/6aNHey
+
+----------------------------------------------------------
+User user added product into cart and then if user login with exiting detail then once login it should redirect on cart page once login instead of dashboard
+
+-----------------------------------------------------------------
+http://nimb.ws/JGhV10
+
+------------------------------------------------------------------
